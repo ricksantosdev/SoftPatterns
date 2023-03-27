@@ -1,0 +1,14 @@
+D:\Projetos\DevPatterns\Padroes\Criacionais\bin\Debug\netcoreapp3.1\Criacionais.exe
+D:\Projetos\DevPatterns\Padroes\Criacionais\bin\Debug\netcoreapp3.1\Criacionais.deps.json
+D:\Projetos\DevPatterns\Padroes\Criacionais\bin\Debug\netcoreapp3.1\Criacionais.runtimeconfig.json
+D:\Projetos\DevPatterns\Padroes\Criacionais\bin\Debug\netcoreapp3.1\Criacionais.runtimeconfig.dev.json
+D:\Projetos\DevPatterns\Padroes\Criacionais\bin\Debug\netcoreapp3.1\Criacionais.dll
+D:\Projetos\DevPatterns\Padroes\Criacionais\bin\Debug\netcoreapp3.1\Criacionais.pdb
+D:\Projetos\DevPatterns\Padroes\Criacionais\obj\Debug\netcoreapp3.1\Criacionais.csproj.AssemblyReference.cache
+D:\Projetos\DevPatterns\Padroes\Criacionais\obj\Debug\netcoreapp3.1\Criacionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DevPatterns\Padroes\Criacionais\obj\Debug\netcoreapp3.1\Criacionais.AssemblyInfoInputs.cache
+D:\Projetos\DevPatterns\Padroes\Criacionais\obj\Debug\netcoreapp3.1\Criacionais.AssemblyInfo.cs
+D:\Projetos\DevPatterns\Padroes\Criacionais\obj\Debug\netcoreapp3.1\Criacionais.csproj.CoreCompileInputs.cache
+D:\Projetos\DevPatterns\Padroes\Criacionais\obj\Debug\netcoreapp3.1\Criacionais.dll
+D:\Projetos\DevPatterns\Padroes\Criacionais\obj\Debug\netcoreapp3.1\Criacionais.pdb
+D:\Projetos\DevPatterns\Padroes\Criacionais\obj\Debug\netcoreapp3.1\Criacionais.genruntimeconfig.cache
