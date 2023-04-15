@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VkhMKLy25trc9mSO/nGg1GmMViDEhjt6KIfwolMGw8vKvfDo1XZDwjCRj130O/Q+V9fwEVekkNM5RYl88wWi4Q==",
+  "dgSpecHash": "oQRubsNIf8Iwr/A3emSrZpcKdB5POj8N3v04aqxbXluvpsogN8Ct4Yg5B96+fpy6o9oC658E2wtj9ekqAdX1Lw==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\DevPatterns\\Padroes\\Criacionais\\Criacionais.csproj",
+  "projectFilePath": "C:\\Users\\risan\\OneDrive\\Área de Trabalho\\Projetos\\SoftPatterns\\Padroes\\Criacionais\\Criacionais.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

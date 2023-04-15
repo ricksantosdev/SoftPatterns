@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\risan\\OneDrive\\Área de Trabalho\\Projetos\\SoftPatterns\\Padroes\\Criacionais\\Criacionais.csproj": {}
+    "C:\\Users\\risan\\OneDrive\\Área de Trabalho\\Projetos\\SoftPatterns\\Padroes\\Factory\\Factory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\risan\\OneDrive\\Área de Trabalho\\Projetos\\SoftPatterns\\Padroes\\Criacionais\\Criacionais.csproj": {
+    "C:\\Users\\risan\\OneDrive\\Área de Trabalho\\Projetos\\SoftPatterns\\Padroes\\Factory\\Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\risan\\OneDrive\\Área de Trabalho\\Projetos\\SoftPatterns\\Padroes\\Criacionais\\Criacionais.csproj",
-        "projectName": "Criacionais",
-        "projectPath": "C:\\Users\\risan\\OneDrive\\Área de Trabalho\\Projetos\\SoftPatterns\\Padroes\\Criacionais\\Criacionais.csproj",
+        "projectUniqueName": "C:\\Users\\risan\\OneDrive\\Área de Trabalho\\Projetos\\SoftPatterns\\Padroes\\Factory\\Factory.csproj",
+        "projectName": "Factory",
+        "projectPath": "C:\\Users\\risan\\OneDrive\\Área de Trabalho\\Projetos\\SoftPatterns\\Padroes\\Factory\\Factory.csproj",
         "packagesPath": "C:\\Users\\risan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\risan\\OneDrive\\Área de Trabalho\\Projetos\\SoftPatterns\\Padroes\\Criacionais\\obj\\",
+        "outputPath": "C:\\Users\\risan\\OneDrive\\Área de Trabalho\\Projetos\\SoftPatterns\\Padroes\\Factory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

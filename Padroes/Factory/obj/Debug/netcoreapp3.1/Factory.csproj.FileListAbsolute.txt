@@ -1,0 +1,14 @@
+C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.AssemblyReference.cache
+C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\obj\Debug\netcoreapp3.1\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfoInputs.cache
+C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfo.cs
+C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.CoreCompileInputs.cache
+C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\bin\Debug\netcoreapp3.1\Factory.exe
+C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\bin\Debug\netcoreapp3.1\Factory.deps.json
+C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.json
+C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\bin\Debug\netcoreapp3.1\Factory.runtimeconfig.dev.json
+C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\bin\Debug\netcoreapp3.1\Factory.dll
+C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\bin\Debug\netcoreapp3.1\Factory.pdb
+C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\obj\Debug\netcoreapp3.1\Factory.dll
+C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\obj\Debug\netcoreapp3.1\Factory.pdb
+C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\obj\Debug\netcoreapp3.1\Factory.genruntimeconfig.cache
