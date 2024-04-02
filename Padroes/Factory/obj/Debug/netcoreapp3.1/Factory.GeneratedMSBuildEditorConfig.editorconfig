@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = Factory
-build_property.ProjectDir = C:\Users\risan\OneDrive\Área de Trabalho\Projetos\SoftPatterns\Padroes\Factory\
+build_property.ProjectDir = D:\Projetos\SoftPatterns\Padroes\Factory\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

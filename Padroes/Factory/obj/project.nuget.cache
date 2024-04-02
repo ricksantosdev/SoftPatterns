@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZBgWGUe3Sxj1efEST6+B9EBAFjep3Fm9tvYHcGCieFzsh1fea98R5EaEjxoXQtD+oCdLPY+NBdf4RegXHsmRXg==",
+  "dgSpecHash": "1807pmHOmvkGwXhowryAWORjTWJDzhelxeAOVnBExTyRSDDnCmlDcsSldSdsgoXFrYL7+7UHtgYXUAyhSiEgpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\risan\\OneDrive\\Área de Trabalho\\Projetos\\SoftPatterns\\Padroes\\Factory\\Factory.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Projetos\\SoftPatterns\\Padroes\\Factory\\Factory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rick\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Rick\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Rick\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Rick\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
