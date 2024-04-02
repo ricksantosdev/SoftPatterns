@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Padroes/.vs
+/Padroes/Factory/obj/Debug/netcoreapp3.1/Factory.AssemblyInfo.cs
+/Padroes/Factory/obj/Debug/netcoreapp3.1/Factory.AssemblyInfoInputs.cache
